@@ -1,0 +1,4 @@
+Uncaught java.lang.Error exception in thread "main" in a method miclase.main() with signature ([Ljava/lang/String;)V
+Exception in thread "main" java.lang.Error: Unresolved compilation problem: 
+
+	at miclase.main(miclase.java:17) [file:/home/alumno/Documents/Programacion%201%20erickson/Project%20semana%201/bin/miclase.class]
