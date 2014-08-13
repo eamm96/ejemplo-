@@ -11,13 +11,7 @@ public class miclase {
 		String cadena;
 		System.out.print("Ingrese una cadena: ");
 		cadena=s.next();
-		if(cadena.equals("prueba"))
-		{
-			System.out.print("es igual a prueba: ");
-			}else
-			{
-				System.out.print("No es igual a prueba.");
-			}
+		//este es un cambio
 	}
 	
 }
